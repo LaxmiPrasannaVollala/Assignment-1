@@ -1,2 +1,2 @@
 This data consists of 1000 rows and 8 columns i.e., gender - female, male 
-The columns are gender classified into female, male, race/ethnicity is divided into group A, group B, group C, parental level of education categorised into bachelor's degree, some college, master's degree, associate's degree, 
+The columns are gender classified into female, male, race/ethnicity is divided into group A, group B, group C, parental level of education categorised into bachelor's degree, some college, master's degree, associate's degree, high school, lunch is divided into standard and free/reduced, test preparation course is categorised into completed and none, math score (scored out of 100), writing score (scored out of 100) and writing score (scored out of 100).
