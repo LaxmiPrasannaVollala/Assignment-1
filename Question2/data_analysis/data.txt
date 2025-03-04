@@ -25,9 +25,8 @@ The analysis from pie chart made easier in:
 -Quickly assess if test prep courses are effective in improving pass rates.
 -Helps schools decide whether to encourage more students to take prep courses.
 
-Scatter Plot → Math Score vs. Reading Score
--The graph displays whether students who perform well in math also score high in reading (or vice versa).
+Scatter Plot → Lunch vs. Final Grades
+-The graph displays whether students performances are depend on lunch.
 The analysis from scatter plot made easier in
--Detecting correlations between subjects (e.g., do good math students also excel in reading?).
--Helps in curriculum planning – if math and reading are strongly correlated, schools may link their teaching strategies.
--Identifies if students struggle in one subject while excelling in another (to provide targeted support).
+-Detecting correlations between lunch and final grade.
+-But there is no relation between lunch and final grades of students
