@@ -1,3 +1,2 @@
 There is no null and missing values in the data.
-Checked for the duplicate values or rows but there are no duplicate values or rows
 Frailty column is categorical ('Y' or 'N') converted to 0 and 1.
