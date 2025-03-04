@@ -1,0 +1,2 @@
+Grip Strength vs Age: There is a very weak positive correlation (0.13) between grip strength and age, suggesting that age does not have a significant impact on grip strength.
+Grip Strength vs Weight: Similarly, the correlation between grip strength and weight is also very weak (0.03), indicating no notable relationship between the two variables.
